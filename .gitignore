@@ -1,2 +1,4 @@
 /target
 .env
+rddns
+records.csv
